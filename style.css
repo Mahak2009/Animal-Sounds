@@ -1,0 +1,15 @@
+.mahak
+{
+    background-color: darkseagreen;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: black;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgb(211, 72, 72);
+}
+body
+{
+    background-color: rgb(218, 214, 214);
+}
